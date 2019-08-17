@@ -1874,6 +1874,7 @@
 					};
 					D16C254323056055007D2510 = {
 						CreatedOnToolsVersion = 10.1;
+						DevelopmentTeam = 7G78EKP2G7;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -2375,12 +2376,13 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 7G78EKP2G7;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				HEADER_SEARCH_PATHS = (
-					"/Volumes/HDD/Projects/JH-Libary_N_FFMPEG/JH-Libary/FFmpeg_iOS/**",
-					"/Volumes/HDD/Projects/JH-Libary_N_FFMPEG/JH-Libary/mp4v2/include/**",
-					"/Volumes/HDD/Projects/JH-Libary_N_FFMPEG/JH-Libary/libyuv/include/libyuv",
-					"/Volumes/HDD/Projects/JH-Libary_N_FFMPEG/JH-Libary/libyuv/include/**",
+					"$(SRCROOT)/JH-Libary/FFmpeg_iOS/**",
+					"$(SRCROOT)/JH-Libary/mp4v2/include/**",
+					"$(SRCROOT)/JH-Libary/libyuv/include/libyuv",
+					"$(SRCROOT)/JH-Libary/libyuv/include/**",
 				);
 				INFOPLIST_FILE = "JH-Demo/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
@@ -2409,12 +2411,13 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 7G78EKP2G7;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				HEADER_SEARCH_PATHS = (
-					"/Volumes/HDD/Projects/JH-Libary_N_FFMPEG/JH-Libary/FFmpeg_iOS/**",
-					"/Volumes/HDD/Projects/JH-Libary_N_FFMPEG/JH-Libary/mp4v2/include/**",
-					"/Volumes/HDD/Projects/JH-Libary_N_FFMPEG/JH-Libary/libyuv/include/libyuv",
-					"/Volumes/HDD/Projects/JH-Libary_N_FFMPEG/JH-Libary/libyuv/include/**",
+					"$(SRCROOT)/JH-Libary/FFmpeg_iOS/**",
+					"$(SRCROOT)/JH-Libary/mp4v2/include/**",
+					"$(SRCROOT)/JH-Libary/libyuv/include/libyuv",
+					"$(SRCROOT)/JH-Libary/libyuv/include/**",
 				);
 				INFOPLIST_FILE = "JH-Demo/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.1;

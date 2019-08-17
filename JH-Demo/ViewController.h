@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "JH_WifiCamera.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<ReceivedData_Delegate>
 
 
 @end
